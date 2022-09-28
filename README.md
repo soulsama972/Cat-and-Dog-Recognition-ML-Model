@@ -1,1 +1,2 @@
-# dog_vs_cat
+# machine learning dog vs cat model
+
